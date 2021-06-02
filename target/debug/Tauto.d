@@ -1,1 +1,1 @@
-C:\dev\auto_grader\automatic-octo-giggle\target\debug\Tauto.exe: C:\dev\auto_grader\automatic-octo-giggle\src\main.rs
+C:\dev\auto_grader\Tauto\target\debug\Tauto.exe: C:\dev\auto_grader\Tauto\src\main.rs
